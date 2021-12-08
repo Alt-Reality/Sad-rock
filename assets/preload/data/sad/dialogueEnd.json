@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"expression": "wow",
+			"text": "ok fine you can keep your balls",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rockdialogue"
+		},
+		{
+			"expression": "ZAMN",
+			"text": "lol",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfrockdialogue"
+		},
+		{
+			"expression": "idle",
+			"text": "skill issue",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfrockdialogue"
+		},
+		{
+			"expression": "wow",
+			"text": "what",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rockdialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "man lost so badly he had to not take my balls",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfrockdialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "like your rapping sucks like damn give me a challenge for once",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfrockdialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "and i'd be crying if i looked like that too like GOD DAMN",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfrockdialogue"
+		},
+		{
+			"expression": "ZAMN",
+			"text": "yall so ugly",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfrockdialogue"
+		},
+		{
+			"expression": "wow",
+			"text": "..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rockdialogue"
+		},
+		{
+			"expression": "spingebill",
+			"text": "WAAAAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAA",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "rockdialogue"
+		},
+		{
+			"expression": "damn",
+			"text": "wut da fuck",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfrockdialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "cry louder ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfrockdialogue"
+		},
+		{
+			"expression": "ZAMN",
+			"text": "man i should get out of here yo face bouta make me cry as well",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfrockdialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "lmfao skill issue again",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfrockdialogue"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "ZAMN",
+			"text": "plus ratio"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rockdialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you cant leave yet."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "damn",
+			"text": "wut"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "mf i already beat you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what chu gonna do huh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rockdialogue",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "*goes soper sayin&*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bro is reaching for the power to look better"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skill issue yet again + ratio "
+		}
+	]
+}

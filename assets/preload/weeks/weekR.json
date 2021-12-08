@@ -1,0 +1,30 @@
+{
+	"storyName": ":spingebill:",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"th",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Sad",
+			"sadrock",
+			[
+				74,
+				64,
+				111
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

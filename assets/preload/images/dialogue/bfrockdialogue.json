@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.15,
+	"animations": [
+		{
+			"loop_name": "idle",
+			"idle_offsets": [
+				-3,
+				-2
+			],
+			"idle_name": "idle",
+			"anim": "idle",
+			"loop_offsets": [
+				-17,
+				-1
+			]
+		},
+		{
+			"loop_name": "ZAMN",
+			"idle_offsets": [
+				13,
+				-1
+			],
+			"idle_name": "ZAMN",
+			"anim": "ZAMN",
+			"loop_offsets": [
+				43,
+				-2
+			]
+		},
+		{
+			"loop_name": "damn",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "damn",
+			"anim": "damn",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bfrockdialogue"
+}

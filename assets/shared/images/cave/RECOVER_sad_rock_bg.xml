@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RECOVER_sad rock bg.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bounce60000" x="0" y="0" width="3052" height="1661"/>
+	<SubTexture name="Bounce60001" x="3052" y="0" width="3052" height="1661"/>
+	<SubTexture name="Bounce60002" x="0" y="1661" width="3052" height="1661"/>
+	<SubTexture name="Bounce60003" x="3052" y="1661" width="3052" height="1661"/>
+	<SubTexture name="Bounce60004" x="0" y="3322" width="3052" height="1661"/>
+	<SubTexture name="Bounce60005" x="3052" y="3322" width="3052" height="1661"/>
+	<SubTexture name="Bounce60006" x="0" y="4983" width="3052" height="1661"/>
+	<SubTexture name="Bounce60007" x="3052" y="4983" width="3052" height="1661"/>
+</TextureAtlas>

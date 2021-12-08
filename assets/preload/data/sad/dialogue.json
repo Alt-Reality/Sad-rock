@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep(my balls itch)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rockdialogue",
+			"boxState": "normal",
+			"expression": "spingebill",
+			"text": ":spunchbop:"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "ZAMN",
+			"text": "why you so sad"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rockdialogue",
+			"boxState": "normal",
+			"expression": "wow",
+			"text": "just found out that I dont have balls "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "ZAMN",
+			"text": "lol skill issue"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "imagine not having balls"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rockdialogue",
+			"boxState": "normal",
+			"expression": "spingebill",
+			"text": ":("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rockdialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "give me your balls"
+		},
+		{
+			"speed": 0.2,
+			"portrait": "rockdialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "N O W"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "damn",
+			"text": "ah hell nah i love my balls"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rockdialogue",
+			"boxState": "normal",
+			"expression": "wow",
+			"text": "but i need them"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "ZAMN",
+			"text": "ok fine listen"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "we do funny beep rap "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "ZAMN",
+			"text": "and if you win.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "damn",
+			"text": "i'll give you my balls "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rockdialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rockdialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "time to get balls"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "bfrockdialogue",
+			"boxState": "normal",
+			"expression": "ZAMN",
+			"text": "this modding scene is shit im bouta rap a rock"
+		}
+	]
+}

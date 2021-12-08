@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfrockdialogue.png">
+<SubTexture name="idle0000" x="0" y="0" width="426" height="409" frameX="0" frameY="0" frameWidth="426" frameHeight="409" />
+<SubTexture name="ZAMN0000" x="0" y="409" width="482" height="432" frameX="0" frameY="0" frameWidth="482" frameHeight="432" />
+<SubTexture name="damn0000" x="0" y="841" width="461" height="422" frameX="0" frameY="0" frameWidth="461" frameHeight="422" />
+</TextureAtlas>

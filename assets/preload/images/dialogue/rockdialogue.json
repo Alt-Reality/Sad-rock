@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		130,
+		150
+	],
+	"scale": 1.15,
+	"animations": [
+		{
+			"loop_name": "idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "idle",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "damnbruhfr",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "damnbruhfr",
+			"anim": "wow",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "spingebill",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "spingebill",
+			"anim": "spingebill",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "rockdialogue"
+}
